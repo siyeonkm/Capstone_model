@@ -1,5 +1,10 @@
 # Capstone_model
 
+- 딥러닝 : https://github.com/kkminyoung/Capstone_model
+- 안드로이드 : https://github.com/kkminyoung/Capstone_android
+- 서버 : https://github.com/Kim-Ha-Jeong/Capstone_server
+
+
 ## 1. 데이터
 ### 1-1) 데이터 수집 
 
