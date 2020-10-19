@@ -2,8 +2,8 @@
 [2020-2 ~ 2021-1] Capstone Design Project
 
 #### 딥러닝 - 진행사항
-1. (완료) 문제정의, abnoraml event detection 논문/코드 분석 
-2. (완료)주행중 영상 모델 구축
+1. (완료) abnoraml event detection 논문/코드 분석 -> 이건 계속 진행
+2. (완료) 주행중 영상 모델 구축
 3. 주차중 영상 모델 구축
 4. 데이터 추가수집
 5. 개선을 위한 Experiment
