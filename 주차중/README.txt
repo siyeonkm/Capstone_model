@@ -1,4 +1,4 @@
-- 정차중 영상에 대한 모델은 아직 선정 못함
+- 주차중 영상에 대한 모델은 아직 선정 못함
 
 참고할 논문들
 - (완료) Abnormal Event Detection in Videos using Generative Adversarial Nets, 2017
