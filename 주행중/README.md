@@ -1,21 +1,4 @@
-# Capstone_model
-
-- 딥러닝 : https://github.com/kkminyoung/Capstone_model
-- 안드로이드 : https://github.com/kkminyoung/Capstone_android
-- 서버 : https://github.com/Kim-Ha-Jeong/Capstone_server
-
-
-## 1. 데이터
-### 1-1) 데이터 수집 
-
-### 1-2) 데이터 가공 
-
-## 2. 딥러닝 모델 생성
-### 2-1) 데이터 Load
-### 2-2) 기본 모델 생성
-### 2-3) Train/Test
-### 2-4) Predict
-
+# 주행중
 
 ## 참고 
 #### Detection
