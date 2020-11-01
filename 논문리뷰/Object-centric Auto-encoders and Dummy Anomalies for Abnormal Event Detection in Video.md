@@ -10,7 +10,7 @@
 - 따라서, 본 연구에서는 비정상적인 사건탐지를 one-versus-rest binary classification 문제로 접근한다.
 
 - Contribution
-  1. 모션 중심의 모양 정보를 인코딩하기 위해 객체 중심 컨볼루션 자동 인코더를 기반으로 하는 unsupervised 학습 프레임 워크를 제안
+  1. 모션 중심의 모양 정보를 인코딩하기 위해 객체 중심 컨볼루션 오토인코더를 기반으로 하는 unsupervised 학습 프레임 워크를 제안
   2. 학습 데이터를 클러스터링 하기 위한 supervised classification 제안
 
 - OVR(one-versus-rest) abnormal event classifier를 사용하여, 각 normal cluster를 다른 cluster와 분리한다. 
@@ -85,7 +85,7 @@
 
 # 5. Conclusion
 - 이상 탐지를 위한 새로운 모델 제안하셨다.
-1) 객체 중심의 컨볼루션 자동 인코더 학습
+1) object-centric 오터인코더 학습
 2) 이상 탐지를 다중 클래스 문제로 변환하여 해결
 - 4가지 데이터셋(Avenue, ShanghaiTech, UCSD, UMN)에서 우수한 결과를 도출했다. 
 
