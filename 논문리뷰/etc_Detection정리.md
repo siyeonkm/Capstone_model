@@ -7,5 +7,5 @@ Tistory에 정리해놓음
 - Mask R-CNN (2017) : https://kkminyoung.tistory.com/8?category=431526
 
 #### 1 stage
-- YOLO : https://kkminyoung.tistory.com/10?category=431526
+- YOLO : https://kkminyoung.tistory.com/9?category=431526
 - Efficient Det : https://kkminyoung.tistory.com/11?category=431526
