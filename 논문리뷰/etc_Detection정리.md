@@ -1,4 +1,4 @@
-# Detection 논문리뷰
+# Detection 논문리뷰 정리
 
 - tistory에 작성완료
 
