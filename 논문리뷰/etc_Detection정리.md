@@ -1,4 +1,6 @@
-Tistory에 정리해놓음
+# Detection 논문리뷰
+
+- tistory에 작성완료
 
 #### 2 stage
 - R-CNN(2014) : https://kkminyoung.tistory.com/3?category=431526
