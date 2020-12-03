@@ -1,6 +1,6 @@
-# Magic Box 
-- 딥러닝 기반 자동편집 블랙박스 어플리케이션
+
 ![image](https://user-images.githubusercontent.com/61506233/100989312-15140e80-3594-11eb-956e-30632ad1a4c9.png)
+# 딥러닝 기반 자동편집 블랙박스 어플리케이션
 
 
 # 1) 시연영상
